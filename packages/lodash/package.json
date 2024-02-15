@@ -1,0 +1,7 @@
+{
+  "name": "lodash",
+  "version": "9.9.9",
+  "private": true,
+  "type": "module",
+  "main": "index.js"
+}
